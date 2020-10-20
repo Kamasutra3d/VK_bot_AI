@@ -71,5 +71,5 @@ class Server:
 
 
 if __name__ ==  "__main__":
-    server1 = Server("токен группы", id группы, "server1")
+    server1 = Server("813693f22e398c933ccb32833e9c5a32295382227dc6b82254493c3f07ad077753dfcba4b832ca8c5ecf8", https://vk.com/intelectbot, "server1")
     server1.start()
